@@ -1,0 +1,22 @@
+.container{
+  background-image: url('../images/wildcat.jpg');
+  background-size: cover;
+  font-family: fantasy;
+  color: white;
+}
+h1, h2{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+.important{
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 1em;
+}
+.important img{
+  padding: 0.5em;
+}
