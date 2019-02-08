@@ -4,12 +4,18 @@
   font-family: fantasy;
   color: white;
   z-index: 0.4;
+  padding-top: 2em;
 }
 h1, h2{
   text-align: center;
+  color: rgb(127,255,0);
+  text-decoration: underline;
+  margin-right: 35%;
+  margin-left: 35%;
 }
 p{
   text-align: center;
+  font-size: 1.5em;
 }
 .important{
   background-color: rgba(0,0,0, 0.5);
